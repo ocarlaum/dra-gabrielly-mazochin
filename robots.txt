@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap do GitHub Pages
+Sitemap: https://ocarlaum.github.io/dra-gabrielly-mazochin/sitemap.xml
