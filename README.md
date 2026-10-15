@@ -23,17 +23,6 @@ Publicado em: https://ocarlaum.github.io/dra-gabrielly-mazochin/
 - FAQ animado e formulário que abre uma conversa no WhatsApp
 - SEO: title e description, canonical, Open Graph, Twitter Cards, dados estruturados JSON-LD (Dentist, Person, FAQPage)
 
-## Como editar
-
-1. Edite o `index.html` (textos, links e dados de contato ficam no próprio arquivo).
-2. Se o número de WhatsApp mudar, atualize também os links `wa.me` e o JSON-LD.
-3. Atualize o `lastmod` do `sitemap.xml` a cada mudança de conteúdo.
-4. Faça o commit na branch `main`; o GitHub Pages atualiza sozinho em alguns minutos.
-
-## Se mudar o endereço do site
-
-Ao migrar para um domínio próprio, troque o endereço antigo no `canonical`, nas tags `og:`/`twitter:`, no JSON-LD, no `robots.txt` e no `sitemap.xml`. Com o site na raiz do domínio, os caminhos que começam com `/` (ícones e `site.webmanifest`) passam a funcionar.
-
 ## Observações
 
 - O conteúdo segue as normas de publicidade odontológica do CFO/CRO: sem preços, promoções ou depoimentos, e sem o termo "especialista" antes do registro da especialidade.
