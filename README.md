@@ -11,10 +11,10 @@ Publicado em: https://ocarlaum.github.io/dra-gabrielly-mazochin/
 | `index.html` | Página inteira (estilos e scripts embutidos) |
 | `favicon.ico`, `favicon-96x96.png`, `assets/favicon.svg`, `apple-touch-icon.png` | Ícones do site |
 | `site.webmanifest`, `web-app-manifest-*.png` | Ícones e dados para instalar o site como app |
-| `assets/gabrielly-mazochin.webp`, `assets/gabrielly-mazochin-480.webp` | Foto principal (900 px e 480 px para telas pequenas) |
+| `assets/gabrielly-mazochin.webp`, `assets/gabrielly-mazochin-480.webp` | Foto principal (900 px e 480 px) |
 | `assets/og-image.jpg` | Imagem de compartilhamento (1200×630) |
 | `robots.txt`, `sitemap.xml` | Rastreamento para buscadores |
-| `google*.html` | Verificação de propriedade no Google Search Console (não apagar) |
+| `google*.html` | Verificação de propriedade no Google Search Console |
 
 ## Recursos
 
